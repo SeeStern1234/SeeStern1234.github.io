@@ -1,0 +1,3 @@
+function myExampleFunction(){
+alert("Hello!");
+}
